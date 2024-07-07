@@ -1,7 +1,4 @@
 
-“It isn't what we say or think that defines us, but what we do.”
-                                  Sense and Sensibility, 1811
-
 # Weronika Paluch
 
 
@@ -9,14 +6,13 @@
 For the past four years, I have been balancing my full-time studies and a job at a coworking, which has helped me develop time management and organizational skills . Now, I’m looking  to transfer my commitment and passion to the IT sector, especially in a linguistic context.  As a person who has experienced many cultures (including English, Turkish and Croatian), I adapt quickly to new situations and assimilate knowledge.
 
 ## Languages 
-| Language | Level | 
-|----------|-------|
-| English  | C2    | 
-| Croatian | A1    | 
+
+English - C2
+Croatian - A1
 
 ## WORK EXPERIENCE
 ### O4 Coworking
-#### Intership | Februrary 2020 - now
+Intership | Februrary 2020 - now
 - Regular creation of graphics for internal and external communication
 - Support of Virtual offices, in the Desktomy system
 - Organizational support for events 
@@ -24,34 +20,34 @@ For the past four years, I have been balancing my full-time studies and a job at
 
 
 ### PCC Intermodal
-#### Internship | November  2019 - January 2020
+Internship | November  2019 - January 2020
 - Translation of texts into / from English
 - Distribution of advertising materials
 - Establishing contacts and cooperation with marketing agencies
 
 
 ### Polish Film Festival in Gdynia
-####  Volunteership | October 2019 | September 2021 , 2022, 2023
+Volunteership | October 2019 | September 2021 , 2022, 2023
 - Supporting international guests
 - Distribution of advertising materials to festival locations
 
 ### Camp May Flather - Camp America
-#### Camp Counselor | June - August 2018
+Camp Counselor | June - August 2018
 - Conducting development activities for children and adolescents
 - Dystrybucja materiałów reklamowych do lokalizacji festiwalowych
 
 ## EDUCATION
 ### University of Gdańsk
-#### Master's Programe 
+Master's Programe 
 English Philology specializing in Natural Language Processing | 2023-2025 
 American Studies | 2023-2025 
 
 ### University of Gdańsk
-#### Batchelor’s Programe
+Batchelor’s Programe
 Cultural Communication | 2020 -2023 
 
 ### University of Split
-#### Batchelor’s Programe
+Batchelor’s Programe
 Erasmus+ Exchange| October 2022 - February 2023 
 
 ## SKILLS
