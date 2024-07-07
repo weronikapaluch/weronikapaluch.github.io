@@ -10,7 +10,7 @@ For the past four years, I have been balancing my full-time studies and a job at
 
 ## Languages 
 | Language | Level | 
-|----------|----------|
+|----------|--------|
 | English    | C2   | 
 | Croatian   | A1   | 
 
@@ -21,11 +21,15 @@ For the past four years, I have been balancing my full-time studies and a job at
 - Support of Virtual offices, in the Desktomy system
 - Organizational support for events 
 - Translation of various marketing content
+
+
 ### PCC Intermodal
 #### Internship | November  2019 - January 2020
 - Translation of texts into / from English
 - Distribution of advertising materials
 - Establishing contacts and cooperation with marketing agencies
+
+
 ### Polish Film Festival in Gdynia
 ####  Volunteership | October 2019 | September 2021 , 2022, 2023
 - Supporting international guests
@@ -58,6 +62,8 @@ Erasmus+ Exchange| October 2022 - February 2023
 - Markdown
 - Graphic Design
 - Communication and teamwork
+
+
 ## INTERESTS
 - Linguistic fan facts
 - Film 
