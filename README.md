@@ -1,13 +1,13 @@
 
 # Weronika Paluch
 
-
 ### About me
 For the past four years, I have been balancing my full-time studies and a job at a coworking, which has helped me develop time management and organizational skills . Now, I’m looking  to transfer my commitment and passion to the IT sector, especially in a linguistic context.  As a person who has experienced many cultures (including English, Turkish and Croatian), I adapt quickly to new situations and assimilate knowledge.
 
 ## Languages 
 
 English - C2
+
 Croatian - A1
 
 ## WORK EXPERIENCE
