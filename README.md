@@ -10,9 +10,9 @@ For the past four years, I have been balancing my full-time studies and a job at
 
 ## Languages 
 | Language | Level | 
-|----------|--------|
-| English    | C2   | 
-| Croatian   | A1   | 
+|----------|-------|
+| English  | C2    | 
+| Croatian | A1    | 
 
 ## WORK EXPERIENCE
 ### O4 Coworking
