@@ -1,0 +1,19 @@
+.sidebar{
+    position: fixed;
+    left: 0;
+    width: 25px;
+    height: 100%;
+    background: darkblue;
+}
+
+.sidebar header{
+    font-size: 22px;
+    color: white;
+    text-align: center;
+    line-height: 7px;
+    background-color: blue;
+}
+
+.sidebar ul{
+    
+}
