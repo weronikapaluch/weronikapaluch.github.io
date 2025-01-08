@@ -1,7 +1,17 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
 .sidebar{
     position: fixed;
     left: 0;
-    width: 25px;
+    width: 250px;
     height: 100%;
     background: darkblue;
 }
@@ -10,10 +20,16 @@
     font-size: 22px;
     color: white;
     text-align: center;
-    line-height: 7px;
+    line-height: 70px;
     background-color: blue;
 }
 
-.sidebar ul{
-    font-family: 'Times New Roman', Times, serif;
+.sidebar ul a{
+    display: block;
+    height: 100%;
+    width: 100%;
+    line-height: 65px;
+    color: white;
+    padding-left: 40px;
+    border-top: 1px solid;
 }
