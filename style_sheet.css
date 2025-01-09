@@ -3,7 +3,6 @@ body{
     margin: 0;
     font-size: 16px;
     line-height: 1.8em;
-    display: flex;
 }
 
 header{
@@ -21,6 +20,13 @@ main {
     flex: 1;
 }
 
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
 h1{
     text-transform: uppercase;
 }
@@ -31,7 +37,7 @@ h3, h4{
 
 
 .sidebar{
-    position: fixed;
+    display: block;
     left: 0;
     width: 375px;
     height: 100%;
@@ -60,4 +66,9 @@ h3, h4{
 
 .divider{
     border-top: 3px solid white
+}
+
+.container{
+    display: flex;
+    flex-wrap: nowrap;
 }
