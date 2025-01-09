@@ -11,7 +11,7 @@ header{
     background-image: ;
     background-size: cover;
     background-position: fixed;
-    color: white;
+    color: peachpuff;
 }
 
 h1{
@@ -35,12 +35,14 @@ h3, h4{
     width: 375px;
     height: 100%;
     background: darkblue;
+    color: white;
 }
 
 .sidebar header{
     font-size: 22px;
     color: white;
     text-align: center;
+    text-transform: bold;
     line-height: 70px;
     background-color: blue;
 }
@@ -53,4 +55,8 @@ h3, h4{
     color: white;
     padding-left: 40px;
     border-top: 1px solid;
+}
+
+.divider{
+    border-top: 3px solid white
 }
