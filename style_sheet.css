@@ -8,7 +8,7 @@ body{
 header{
     padding: 2em;
     text-align: center;
-    background-image: ;
+    background-image: url(./images/background.jpg) ;
     background-size: cover;
     background-position: fixed;
     color: peachpuff;
