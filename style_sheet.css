@@ -78,3 +78,9 @@ h3, h4{
     display: flex;
     flex-wrap: nowrap;
 }
+
+.sidebar img{
+    max-width: 50%;
+    max-height: 50%;
+    clip-path: circle(50%);
+}
