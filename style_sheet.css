@@ -15,7 +15,6 @@ header{
 }
 
 main {
-    margin-left: 375px; 
     padding: 20px; 
     flex: 1;
 }
