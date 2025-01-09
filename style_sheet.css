@@ -1,6 +1,27 @@
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.8em;
 }
+
+header{
+    padding: 2em;
+    text-align: center;
+    background-image: ;
+    background-size: cover;
+    background-position: fixed;
+    color: white;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+h3, h4{
+    text-transform: bold;
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -11,7 +32,7 @@ body{
 .sidebar{
     position: fixed;
     left: 0;
-    width: 250px;
+    width: 375px;
     height: 100%;
     background: darkblue;
 }
