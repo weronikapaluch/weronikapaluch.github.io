@@ -3,6 +3,7 @@ body{
     margin: 0;
     font-size: 16px;
     line-height: 1.8em;
+    display: flex;
 }
 
 header{
@@ -14,8 +15,10 @@ header{
     color: peachpuff;
 }
 
-main{
-    text-align: right;
+main {
+    margin-left: 375px; 
+    padding: 20px; 
+    flex: 1;
 }
 
 h1{
@@ -23,15 +26,9 @@ h1{
 }
 
 h3, h4{
-    text-transform: bold;
+    font-weight: bold;
 }
 
-*{
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    text-decoration: none;
-}
 
 .sidebar{
     position: fixed;
