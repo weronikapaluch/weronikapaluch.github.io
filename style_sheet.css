@@ -14,6 +14,12 @@ header{
     color: peachpuff;
 }
 
+.bio {
+    border: 150px;
+    text-align: justify;
+    padding: 150px
+}
+
 main {
     padding: 20px; 
     flex: 1;
