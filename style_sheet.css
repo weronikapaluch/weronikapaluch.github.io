@@ -69,20 +69,26 @@ h3, h4{
 .sidebar{
     display: block;
     left: 0;
-    width: 375px;
+    width: 300px;
     height: 100%;
-    padding: 0.1em;
+    padding: 1em;
     background: #A9C3B6;
     color: white;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2);
+    overflow-y: auto;
 }
 
 .sidebar header{
-    font-size: 22px;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.5;
     color: white;
     text-align: center;
     text-transform: bold;
     line-height: 70px;
-    background-color: blue;
+    background-color: #4CAF50;
+    border-radius: 5px;
 }
 
 .sidebar ul {
