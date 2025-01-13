@@ -50,7 +50,7 @@ a:hover {
 
 main {
     padding-top: 50px; 
-    padding-left: 50px;
+    padding-left: 150px;
 }
 
 * {
@@ -131,7 +131,7 @@ h3, h4{
     color: #2c3e50;
 }
 
-.experience .divider{
+main .divider{
     margin: 20px 0;
     border-top: 2px solid #eaeaea;
 }
@@ -159,5 +159,34 @@ h3, h4{
 
 .experience ul li {
     margin-bottom: 5px;
-    color: #2d3436; /* Almost black */
+    color: black;
+}
+
+.education h1{
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #2c3e50;
+}
+
+.education article{
+    margin-top: 20px;
+    border-left: 4px solid #3498db;
+    padding-left: 15px;
+}
+
+.education .school{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #2980b9;
+}
+
+.education .course{
+    font-size: 1rem;
+    color: #7f8c8d;
+    margin-top: 5px;
+}
+
+.education .line{
+    margin: 10px 0;
+    border-top: 2px solid #eaeaea;
 }
