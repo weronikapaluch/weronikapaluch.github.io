@@ -156,11 +156,13 @@ main .divider{
 .experience ul {
     padding-left: 20px;
     margin: 10px 0;
+    list-style-type: circle;
 }
 
 .experience ul li {
     margin-bottom: 5px;
     color: black;
+    list-style-type: circle;
 }
 
 .education h1{
